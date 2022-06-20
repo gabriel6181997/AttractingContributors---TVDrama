@@ -19,13 +19,13 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite Japanese TV drama.
 
 # List of TV Drama
-・Invisible   
-・やんごとなき一族  
-・恋なんて、本気でやってどうするの？  
-・マイファミリー 
-・Gokushufudō
-・Code Blue
-・僕のいた時間
-・アンナチュラル
-・リーガル・ハイ
-・ガリレオ
+1. Invisible
+2. やんごとなき一族  
+3. 恋なんて、本気でやってどうするの？  
+4. マイファミリー 
+5. Gokushufudō 
+6. Code Blue 
+7. 僕のいた時間 
+8. アンナチュラル 
+9. リーガル・ハイ  
+10. ガリレオ
