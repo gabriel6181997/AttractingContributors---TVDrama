@@ -28,3 +28,5 @@ Favorite type of tea
 6. Darjeeling
 7. Yame tea
 8. Thailand tea
+9. 緑茶
+
