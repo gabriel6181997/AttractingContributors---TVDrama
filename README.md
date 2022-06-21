@@ -26,3 +26,4 @@ Favorite type of tea
 4. Apple Tea
 5. Houjicha(ほうじ茶)
 6. Darjeeling
+7. Yame tea
