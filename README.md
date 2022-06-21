@@ -27,3 +27,4 @@ Favorite type of tea
 5. Houjicha(ほうじ茶)
 6. Darjeeling
 7. Yame tea
+8. Thailand tea
